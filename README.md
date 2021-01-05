@@ -1,3 +1,34 @@
+# API Request Demo Site
+A project for WCS Lisbon built with React (with dark mode) using Styled-Components and restcountries API.
+
+## Technologies and Skills used
+This project was built using:
+
+* Single responsability principle
+* Separation of concerns
+* Reusable components
+* Reusable styles
+* React Hooks - useEffect, useState
+* Mobile first design approach
+* Conditional rendering
+* Full use of version control via Github: Different branches, commits, pull requests and merges.
+* Axios
+* Javascript
+* CSS
+* HTML
+* React
+* React Bootstrap
+* Styled-Components
+
+
+## About me
+We are students of Web Developer with knowledge of the front-end. Our goal is to specialize on Full-Stack development and one day become a good Juniors developers.
+
+For any inquiries, please feel free to contact us through ours Linkedins:
+
+**Luis Clara
+https://www.linkedin.com/in/luis-clara/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
